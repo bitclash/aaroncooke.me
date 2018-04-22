@@ -1,4 +1,4 @@
-baseURL = "http://aaroncooke.me/"
+baseURL = "https://aaroncooke.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
